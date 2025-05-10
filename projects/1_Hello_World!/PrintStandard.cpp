@@ -1,3 +1,5 @@
+// Outputs the string Hello World! for beginner practice
+
 #include <iostream>
 
 int main()
