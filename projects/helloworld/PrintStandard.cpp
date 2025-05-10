@@ -1,8 +1,7 @@
 #include <iostream>
-#include "PPP.h"
 
 int main()
 {
-    std::cout << "__cplusplus macro value: " << __cplusplus << std::endl;
+    std::cout << "Hello World!\n";
     return 0;
 }
